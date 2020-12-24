@@ -1,3 +1,3 @@
 # Display the output
-
-print("New Python file")
+input = int(input("What is your favorite number? "))
+print(input)
